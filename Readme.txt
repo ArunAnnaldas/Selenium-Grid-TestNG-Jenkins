@@ -1,0 +1,1 @@
+This project is mapped to Selenium-Grid-TestNG-Jenkins job.
